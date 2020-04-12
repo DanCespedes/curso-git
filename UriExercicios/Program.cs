@@ -12,6 +12,8 @@ namespace Course {
             Console.WriteLine(p.Preco);
             Console.WriteLine(p.Quantidade);
 
+            Console.WriteLine("teste do git");
+
         }
     }
 }
