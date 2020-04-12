@@ -15,6 +15,10 @@ namespace Course {
             Console.WriteLine("teste do git");
 
             Console.WriteLine("ola teste para voltar no commit");
+            Console.WriteLine("não deu certo da outra vez");
+            Console.WriteLine("não deu certo da outra vez");
+            Console.WriteLine("não deu certo da outra vez");
+            Console.WriteLine("não deu certo da outra vez");
 
         }
     }
