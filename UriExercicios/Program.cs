@@ -14,6 +14,8 @@ namespace Course {
 
             Console.WriteLine("teste do git");
 
+            Console.WriteLine("ola teste para voltar no commit");
+
         }
     }
 }
